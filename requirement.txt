@@ -1,0 +1,5 @@
+table that has functions
+top performers
+scores 
+players nname used in func
+actual graph details also v/s predicted
