@@ -1,0 +1,30 @@
+{
+  "id": "RFQ-2024-Q1-001",
+  "type": "request_for_quotation",
+  "category": "office_supplies",
+  "deadline": "2024-02-01",
+  "requirements": [
+    {
+      "item": "A4 Paper",
+      "specification": "80gsm, white",
+      "quantity": 100,
+      "unit": "reams"
+    },
+    {
+      "item": "Printer Cartridges",
+      "specification": "HP LaserJet Pro series, black",
+      "quantity": 20,
+      "unit": "pieces"
+    },
+    {
+      "item": "Office Chairs",
+      "specification": "Ergonomic, adjustable height, black",
+      "quantity": 25,
+      "unit": "pieces"
+    }
+  ],
+  "sender": "procurement@company.com",
+  "delivery_address": "123 Business Park, Suite 100, City, State 12345",
+  "contact_person": "Sarah Johnson",
+  "phone": "+1-555-0123"
+}

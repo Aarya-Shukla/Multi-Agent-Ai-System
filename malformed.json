@@ -1,0 +1,6 @@
+{
+  "id": 12345,
+  "data": "Some data",
+  "unknown_field": "This shouldn't be here",
+  "sender": "test@example.com"
+}

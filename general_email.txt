@@ -1,0 +1,30 @@
+From: employee@company.com
+To: team@company.com
+Subject: Team Meeting Agenda - Weekly Sync
+Date: Wed, 17 Jan 2024 08:45:00 GMT
+
+Hi Team,
+
+Hope everyone is doing well! Here's the agenda for our weekly team sync scheduled for Friday at 2:00 PM.
+
+AGENDA ITEMS:
+1. Project status updates (15 mins)
+2. Q1 goals review (10 mins)
+3. Upcoming deadlines discussion (10 mins)
+4. Resource allocation planning (15 mins)
+5. Open floor for questions/concerns (10 mins)
+
+Please come prepared with:
+- Your current project status
+- Any blockers or challenges you're facing
+- Resource requirements for next week
+
+The meeting will be held in Conference Room B, with dial-in option available.
+Meeting link: https://company.zoom.us/j/123456789
+
+Looking forward to our productive discussion!
+
+Best,
+Alex Martinez
+Team Lead
+alex@company.com

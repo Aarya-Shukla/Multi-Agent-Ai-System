@@ -1,0 +1,53 @@
+From: procurement@company.com
+To: vendor@supplier.com
+Subject: RFQ - Office Equipment Q1 2024 - Response Required by Feb 1st
+Date: Tue, 16 Jan 2024 09:15:00 GMT
+
+Dear Vendor Partner,
+
+We are soliciting quotations for our Q1 2024 office equipment procurement. Please review the requirements below and provide your competitive pricing.
+
+ITEMS REQUESTED:
+
+1. Desktop Computers
+   - Specification: Intel i5 processor, 16GB RAM, 512GB SSD, Windows 11 Pro
+   - Quantity: 15 units
+   - Required delivery: March 1, 2024
+
+2. Monitors
+   - Specification: 24-inch LED, 1920x1080, HDMI/DisplayPort connectivity
+   - Quantity: 15 units
+
+3. Wireless Keyboards and Mice Combos
+   - Specification: Ergonomic design, 2.4GHz wireless, battery included
+   - Quantity: 15 sets
+
+4. Network Switches
+   - Specification: 24-port Gigabit Ethernet, managed, rack-mountable
+   - Quantity: 2 units
+
+QUOTATION REQUIREMENTS:
+- Unit prices and total costs
+- Warranty terms and duration
+- Delivery timeline and logistics
+- Payment terms and conditions
+- Technical support availability
+
+EVALUATION CRITERIA:
+- Competitive pricing (40%)
+- Quality and reliability (30%)
+- Delivery timeline (20%)
+- After-sales support (10%)
+
+Please submit your complete quotation by February 1st, 2024, 5:00 PM EST.
+Late submissions will not be considered.
+
+For technical clarifications, contact our IT team at it@company.com
+For commercial queries, reach out to me directly.
+
+Best regards,
+Sarah Johnson
+Senior Procurement Manager
+Company Name Inc.
+Phone: +1-555-0123
+Email: procurement@company.com

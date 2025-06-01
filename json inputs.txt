@@ -1,0 +1,209 @@
+1.
+  {
+    "id": "INV-2024-001",
+    "type": "invoice",
+    "vendor": "TechCorp Solutions",
+    "amount": 2500,
+    "due_date": "2024-02-15",
+    "items": [
+      {
+        "description": "Software License",
+        "quantity": 5,
+        "price": 500
+      }
+    ],
+    "sender": "billing@techcorp.com"
+  }
+2.
+  {
+    "id": "INV-2024-002",
+    "type": "invoice",
+    "vendor": "DataFlow Systems",
+    "amount": 4750,
+    "due_date": "2024-03-01",
+    "items": [
+      {
+        "description": "Database Setup",
+        "quantity": 1,
+        "price": 2000
+      },
+      {
+        "description": "Monthly Maintenance",
+        "quantity": 11,
+        "price": 250
+      }
+    ],
+    "sender": "accounts@dataflow.net"
+  }
+3.
+  {
+    "id": "INV-2024-003",
+    "type": "invoice",
+    "vendor": "CloudHost Pro",
+    "amount": 890,
+    "due_date": "2024-02-28",
+    "items": [
+      {
+        "description": "VPS Hosting",
+        "quantity": 3,
+        "price": 120
+      },
+      {
+        "description": "SSL Certificates",
+        "quantity": 5,
+        "price": 110
+      }
+    ],
+    "sender": "billing@cloudhost.com"
+  }
+4.
+  {
+    "id": "INV-2024-004",
+    "type": "invoice",
+    "vendor": "DevTools Inc",
+    "amount": 1200,
+    "due_date": "2024-03-10",
+    "items": [
+      {
+        "description": "IDE Pro License",
+        "quantity": 8,
+        "price": 150
+      }
+    ],
+    "sender": "sales@devtools.com"
+  }
+5.
+  {
+    "id": "INV-2024-005",
+    "type": "invoice",
+    "vendor": "SecureNet Services",
+    "amount": 3600,
+    "due_date": "2024-02-20",
+    "items": [
+      {
+        "description": "Firewall Configuration",
+        "quantity": 1,
+        "price": 800
+      },
+      {
+        "description": "Security Audit",
+        "quantity": 1,
+        "price": 1500
+      },
+      {
+        "description": "Penetration Testing",
+        "quantity": 1,
+        "price": 1300
+      }
+    ],
+    "sender": "info@securenet.io"
+  }
+6.
+  {
+    "id": "INV-2024-006",
+    "type": "invoice",
+    "vendor": "Marketing Boost",
+    "amount": 950,
+    "due_date": "2024-03-05",
+    "items": [
+      {
+        "description": "SEO Analysis",
+        "quantity": 1,
+        "price": 450
+      },
+      {
+        "description": "Content Creation",
+        "quantity": 10,
+        "price": 50
+      }
+    ],
+    "sender": "billing@marketingboost.com"
+  }
+7.
+  {
+    "id": "INV-2024-007",
+    "type": "invoice",
+    "vendor": "Office Supplies Direct",
+    "amount": 275,
+    "due_date": "2024-02-25",
+    "items": [
+      {
+        "description": "Wireless Mouse",
+        "quantity": 12,
+        "price": 15
+      },
+      {
+        "description": "Mechanical Keyboard",
+        "quantity": 5,
+        "price": 23
+      }
+    ],
+    "sender": "orders@officesupplies.com"
+  }
+9.
+  {
+    "id": "INV-2024-008",
+    "type": "invoice",
+    "vendor": "Analytics Pro",
+    "amount": 5200,
+    "due_date": "2024-03-15",
+    "items": [
+      {
+        "description": "Enterprise Dashboard",
+        "quantity": 1,
+        "price": 3000
+      },
+      {
+        "description": "Custom Reports",
+        "quantity": 4,
+        "price": 400
+      },
+      {
+        "description": "Training Session",
+        "quantity": 2,
+        "price": 400
+      }
+    ],
+    "sender": "support@analyticspro.com"
+  }
+10.
+  {
+    "id": "INV-2024-009",
+    "type": "invoice",
+    "vendor": "Legal Advisors LLC",
+    "amount": 1800,
+    "due_date": "2024-02-18",
+    "items": [
+      {
+        "description": "Contract Review",
+        "quantity": 6,
+        "price": 300
+      }
+    ],
+    "sender": "billing@legaladvisors.com"
+  },
+  {
+    "id": "INV-2024-010",
+    "type": "invoice",
+    "vendor": "Design Studio Alpha",
+    "amount": 2850,
+    "due_date": "2024-03-08",
+    "items": [
+      {
+        "description": "Logo Design",
+        "quantity": 1,
+        "price": 800
+      },
+      {
+        "description": "Website Mockups",
+        "quantity": 5,
+        "price": 250
+      },
+      {
+        "description": "Brand Guidelines",
+        "quantity": 1,
+        "price": 800
+      }
+    ],
+    "sender": "hello@designalpha.com"
+  }

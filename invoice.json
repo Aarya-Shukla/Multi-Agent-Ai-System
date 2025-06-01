@@ -1,0 +1,29 @@
+{
+  "id": "INV-2024-001",
+  "type": "invoice",
+  "vendor": "TechCorp Solutions",
+  "amount": 2500.0,
+  "currency": "USD",
+  "due_date": "2024-02-15",
+  "issue_date": "2024-01-15",
+  "items": [
+    {
+      "description": "Software License Annual Subscription",
+      "quantity": 5,
+      "unit_price": 400.0,
+      "total": 2000.0
+    },
+    {
+      "description": "Setup and Configuration",
+      "quantity": 1,
+      "unit_price": 500.0,
+      "total": 500.0
+    }
+  ],
+  "sender": "billing@techcorp.com",
+  "recipient": "accounts@yourcompany.com",
+  "metadata": {
+    "payment_terms": "Net 30",
+    "purchase_order": "PO-2024-005"
+  }
+}
